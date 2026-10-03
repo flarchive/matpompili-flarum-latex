@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of matpompili/flarum-latex.** Not for installation: use [Packagist](https://packagist.org/packages/matpompili/flarum-latex) or the [upstream repository](https://github.com/matpompili/flarum-latex).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/matpompili-flarum-latex/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.3`
+**2** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/matpompili-flarum-latex/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^0.1.0-beta.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.2` | 2015-12-05 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matpompili-flarum-latex/tree/archive/v0.1.2) |
+| `v1.0.0` | 2015-12-05 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/matpompili-flarum-latex/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/matpompili-flarum-latex.json](https://github.com/flarchive/archive-index/blob/main/packages/matpompili-flarum-latex.json)
 
